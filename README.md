@@ -19,6 +19,7 @@ sudo echo "127.0.0.1 ::1 magento.test" >> /etc/hosts
 ```bash
 sudo su
 echo "127.0.0.1 ::1 magento.test" >> /etc/hosts
+exit
 ```
 
 In the cmd of the folder run:
