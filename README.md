@@ -12,8 +12,5 @@ curl -s https://raw.githubusercontent.com/markshust/docker-magento/master/lib/on
 ### For back-end + front-end
 Download the app folder and paste it on the project folder
 
-### For back-end
-
-
 ## Credits
 [Markshust](https://github.com/markshust/docker-magento)
